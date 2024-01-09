@@ -1,0 +1,54 @@
+.banner {
+    background-image: url('../../../assets/images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 90px 18px;
+}
+
+.banner-content h3 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.banner-buttons {
+    padding-top: 2rem;
+}
+
+.banner-buttons .btn1 {
+    background-color: yellow;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 17px;
+    border: none;
+    padding: 0.8rem 1rem 0.8rem 1rem;
+    margin-right: 4rem;
+    color: black;
+    transition: 0.5s ease;
+}
+
+.banner-buttons .btn1:hover {
+    background-color: darkgreen;
+    cursor: pointer;
+    color: white;
+}
+
+.banner-buttons .btn3 {
+    background-color: darkgreen;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 17px;
+    border: none;
+    padding: 0.8rem 1rem 0.8rem 1rem;
+    color: white;
+    transition: 0.5s ease;
+}
+
+.banner-buttons .btn3:hover {
+    background-color: yellow;
+    cursor: pointer;
+    color: black;
+}

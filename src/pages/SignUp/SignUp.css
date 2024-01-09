@@ -1,0 +1,63 @@
+.signUp-form {
+    padding: 2rem 0 2rem 0;
+}
+
+.signUp-title h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 5rem;
+    border-bottom: 3px solid #aebf02;
+}
+
+.signUp-title {
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.signUp-container {
+    padding-top: 0.5rem;
+    margin: 1rem 0 1rem 0;
+}
+
+.signUp-container label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+
+}
+
+.signUp-container input {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.signUp-button button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #aebf02;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+
+}
+
+.signUp-last h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.signUp-form img {
+    width: 400vh;
+    height: 100vh;
+}
+
+.signUp {
+    background-color: whitesmoke;
+}
+
+.login-link {
+    text-decoration: none;
+
+}
+
+.signUp-radios {
+    padding-top: 1rem;
+}

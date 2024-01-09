@@ -1,0 +1,58 @@
+.service-main {
+    padding: 2rem 2rem 2rem 2rem;
+    margin-top: 4rem;
+}
+
+.service-main span {
+    align-items: center;
+    color: darkseagreen;
+    padding: 0 2rem 1rem 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.service-main h2 {
+    align-items: center;
+    color: black;
+    padding: 0 2rem 2rem 2rem;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.service-main img {
+    max-width: 70px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    padding-top: 1rem;
+}
+
+.service-main h3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Inter';
+    color: black;
+    padding-top: 1rem;
+}
+
+.service-main p {
+    font-size: 15px;
+    font-family: 'Inter';
+    color: dimgray;
+    font-weight: 500;
+    padding-top: 0.8rem;
+}
+
+.service-box {
+    border: none;
+    padding: 0 2rem 0 2rem;
+    margin: 0 2rem 0 2rem;
+    background-color: beige;
+}
+
+.service-box:hover {
+    transition: 3.5s linear;
+    cursor: pointer;
+    transform: scale(1.3);
+}

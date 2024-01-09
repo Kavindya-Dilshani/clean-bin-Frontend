@@ -1,0 +1,98 @@
+.pickUp {
+    margin-left: 5rem;
+    padding-bottom: 3rem;
+}
+
+
+.pickUp-main {
+    padding: 2rem 2rem 2rem 2rem;
+    background-color: whitesmoke;
+}
+
+.pickUp-main h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-weight: bold;
+
+}
+
+.pickUp-main p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2rem 22.5rem 2rem 0;
+    padding-bottom: 2rem;
+}
+
+.pickUp-main i {
+    padding-right: 0.8rem;
+}
+
+.pickUp-main hr {
+    width: 50%;
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.button-first {
+    font-size: 18px;
+    margin: 2rem 1rem 2rem 1rem;
+    padding: 1rem 0.8rem 1rem 3rem;
+    background-color: darkgoldenrod;
+    border: none;
+    color: black;
+    margin-right: 0.8rem;
+}
+
+.button-first i {
+    padding: 0 2rem 0 2rem;
+}
+
+.pickUp-form {
+    padding: 0 1rem 0.5rem 1rem;
+    margin: 1rem 0 1rem 0;
+
+}
+
+.pickUp-form input {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-radios h4 {
+    padding-top: 1rem;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-radios {
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.form-radios label {
+    padding-right: 1rem;
+    margin-left: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.form-button button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #aebf02;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 1rem;
+
+}
+
+.pickUp-heading h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding-top: 1rem;
+}
+
+.pickUp-heading p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 1rem 1rem 1rem 1rem;
+}

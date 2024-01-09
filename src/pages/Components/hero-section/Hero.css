@@ -1,0 +1,44 @@
+.home-main {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.home-col1 {
+    padding: 1rem 2rem 1rem 4rem;
+}
+
+.home-col1 h2 {
+    font-family: 'Inter';
+    font-size: bold;
+    font-weight: 700px;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 1rem;
+}
+
+.home-col1 span {
+    color: red;
+}
+
+.home-col1 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: medium;
+    font-size: 25px;
+    color: dimgrey;
+    padding-bottom: 1rem;
+}
+
+.home-col1 .btn1 {
+    font-family: 'Inter';
+    font-size: medium;
+    font-size: 15px;
+    color: white;
+    background-color: forestgreen;
+    border: none;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 30px;
+}
+
+.home-col1 .btn1:hover {
+    background-color: chocolate;
+}
